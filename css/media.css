@@ -1,0 +1,285 @@
+@media(min-width: 0px) and (max-width: 320px){
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .banner-content {
+        min-height: 75vh;
+        text-align: center;
+    }
+    .banner-content h5 {
+        text-align: center;
+        font-size: 15px;
+    }
+    .banner-content p {
+        margin-bottom: 30px;
+        font-size: 14px;
+        text-align: center;
+    }
+    .btn-download, .btn-features {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .btn-features {
+        margin-left: 12px;
+    }    
+    .phone{
+        display: none;
+    }
+    .features_section {
+        margin-top: 0px;
+    }
+    .heading h5 {
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .heading h1 {
+        font-size: 22px;
+    }
+    .features_item {
+        padding-top: 0 !important;
+    }
+    .features_section {
+        padding-top: 0 !important;
+    }
+    .iphone {
+        margin: auto;
+        margin-bottom: 25px;
+        width: 59%;
+    }
+    .device h5 {
+        font-weight: bold;
+        font-size: 15px;
+        text-align: center;
+    }
+    .device h1 {
+        margin-bottom: 2px;
+        text-align: center;
+    }
+    .device p {
+        margin-bottom: 30px;
+        font-size: 14px;
+        text-align: center;
+    }
+    .customize {
+        padding-top: 0 !important;
+    }
+    .super h5 {
+        font-weight: bold;
+        font-size: 15px;
+        text-align: center;
+    }
+    .super h1 {
+        margin-bottom: 1px;
+        text-align: center;
+    }
+    .super p {
+        margin-bottom: 33px;
+        font-size: 14px;
+    }
+    .iphone-two img {
+        width: 86%;
+    }
+    .header h5 {
+        margin-top: 1px;
+        font-size: 15px;
+    }
+    .header h1 {
+        font-size: 25px;
+    }
+    .like h4 {
+        font-size: 18px;
+    }
+    .like h4 span {
+        font-size: 20px;
+    }
+    .like {
+        min-height: 30vh;
+        text-align: center;
+    }
+    .btn-now, .btn-view {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .btn-view {
+        margin: 12px 32px;    
+    }
+    .plans {
+        padding-top: 3px !important;
+    }
+    .social-icon i {
+        margin-right: 10px;
+        font-size: 19px;
+    }
+    .copyright p {
+        margin-top: 6px;
+        font-size: 13px;
+    }
+    form input[type="submit"] {
+        padding: 5px 5px;
+        font-size: 11px;
+    }
+
+}
+@media(min-width: 321px) and (max-width: 375px){
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .iphone {
+        margin: auto;
+        width: 59%;
+        margin-bottom: 9px;
+    }
+    .device h5 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .customize {
+        padding-top: 0 !important;
+    }
+    .super h5 {
+        font-size: 16px;
+        margin-top: 36px;
+        text-align: center;
+    }
+    .super h1 {
+        margin-bottom: 14px;
+    }
+    .super p {
+        font-size: 13px;
+    }
+    .header h5 {
+        font-size: 15px;
+    }
+    .testimonial {
+        padding-top: 3px !important;
+    }
+    .header h1 {
+        font-size: 29px;
+    }
+    .like h4 span {
+        font-size: 18px;
+    }
+    .like h4 {
+        font-size: 17px;
+    }
+    .like {
+        text-align: center;
+    }
+    .btn-view {
+        padding: 10px 15px;
+        font-size: 11px;
+        margin-top: 2px;
+    }
+    .btn-now {
+        padding: 10px 15px;
+        font-size: 11px;
+    }
+    .phone{
+        display: none;
+    }
+    .banner-content {
+        min-height: 78vh;
+        text-align: center;
+    }
+    .banner-content h5 {
+        font-size: 14px;
+        margin-bottom: 18px;
+        text-align: center;
+    }
+    .btn-download, .btn-features {
+        padding: 10px 19px;
+        font-size: 13px;
+    }
+    .features_section {
+        margin-top: -33px;
+    }
+    .heading h5 {
+        font-weight: bold;
+        font-size: 14px;
+    }
+    .heading h1 {
+        font-size: 29px;
+    }
+    .features_item {
+        padding-top: 0 !important;
+    }
+    .social-icon i {
+        padding-top: 6px;
+        margin-left: 19px;
+        margin-right: 9px;
+        font-size: 15px;
+    }
+    .copyright p {
+        margin-top: 9px;
+        font-size: 12px;
+    }
+
+}
+@media(min-width: 376px) and (max-width: 425px){
+    .social-icon i {
+      
+        padding-top: 5px;
+        padding-bottom: 3px;
+        margin-left: 21px;
+        margin-right: 0px;
+        font-size: 16px;
+    }
+    .copyright p {
+        font-size: 11px;
+    }
+    .phone{
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .banner-content {
+        min-height: 70vh;
+        text-align: center;
+    }
+    .banner-content h5 {
+        font-size: 15px;
+        text-align: center;
+    }
+    .banner-content p {
+        margin-bottom: 55px;
+        text-align: center;
+        font-size: 13px;
+    }
+    .btn-download, .btn-features {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .banner-content h1 {
+        margin-bottom: 25px;
+        text-align: center;
+    }
+}
+@media(min-width: 426px) and (max-width: 768px){
+    .phone {
+        left: 56%;
+        width: 40%;
+    }
+    .banner-content {
+        min-height: 83vh;
+    }
+    .banner-content h5 {
+        font-size: 14px;
+        margin-bottom: 26px;
+    }
+    .banner-content h1 {
+        margin-bottom: 20px;
+        font-size: 23px;
+    }
+    .banner-content p {
+        font-size: 14px;
+        margin-bottom: 50px;
+    }
+    .btn-download ,  .btn-features{
+        padding: 9px 9px;
+        font-size: 13px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+}
